@@ -1,0 +1,20 @@
+Class: Dog
+
+Attributes:
+name (string)
+dateOfBirth (integer)
+color (string)
+bladderCapacity (integer)
+currentBladderCapacity (integer)
+hungry (boolean)
+thirsty (boolean)
+isInside (boolean)
+toyBin(array of strings)
+
+
+Methods:
+callDog (prints name to console)
+drinkWater (toggles thirsty boolean from true to false & adds 10 to currentBladderCapacity)
+goOutside (toggles isInside from true to false)
+goPotty (sets currentBladderCapacity to 0)
+chewToy (removes a string from the end of the toyBin array)
