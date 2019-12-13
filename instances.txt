@@ -1,0 +1,19 @@
+Instance: Zeke
+
+Attributes:
+name ('Zeke')
+dateOfBirth (12/5/2017)
+color ('grey')
+bladderCapacity (100)
+currentBladderCapacity (25)
+thirsty (true)
+isInside (true)
+toyBin ['kong', 'bone', 'plush toy']
+
+
+Methods:
+callDog (prints 'Zeke' to the console)
+drinkWater (thirsty = false currentBladderCapacity 25 + 10 = 35)
+goOutside (isInside = false)
+goPotty (currentBladderCapacity 25 -25 = 0 )
+chewToy (toyBin = ['kong', 'bone'])
