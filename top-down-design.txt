@@ -1,0 +1,29 @@
+Making a Sandwich
+1. Gather sandwich supplies
+  1.1 Remove peanut butter from the refrigerator
+  1.2 Remove jelly from the refrigerator
+  1.3 Remove bread from cupboard
+  1.4 Place all items together on the kitchen counter
+2. Gather utensils
+  2.1 Remove a plate from the cupboard
+  2.2 Remove a butter knife from the silverware drawer.
+  2.3 Place all items together with the sandwich supplies
+3. Create sandwich
+  3.1 Prep Bread
+    3.1.1 Remove the plastic tab from the bag
+    3.1.2 Remove the heal from the bag and set aside
+    3.1.3 Remove two slices of Bread
+    3.1.4 Place the two slices of bread side by side on your plate
+  3.2 Apply Peanut butter
+    3.2.1 Remove lid from peanut butter container
+    3.2.2 Using your knife remove the desired amount of peanut butter from the jar
+    3.2.3 Spread peanut butter onto one slice of bread
+  3.3 Apply Jelly
+    3.3.1 Remove lid from jelly container
+    3.3.2 Using your knife remove the desired amount of jelly from the jar
+    3.3.3 Spread jelly onto the slice of bread that does not have peanut butter
+  3.4 Assemble
+    3.4.1 Pick up the piece of bread with jelly on it
+    3.4.2 Place it jelly side down onto the slice of bread with peanut butter
+    3.4.3 Gently press them together
+4. Clean up
