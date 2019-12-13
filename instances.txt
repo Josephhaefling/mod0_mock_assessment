@@ -15,5 +15,26 @@ Methods:
 callDog (prints 'Zeke' to the console)
 drinkWater (thirsty = false currentBladderCapacity 25 + 10 = 35)
 goOutside (isInside = false)
-goPotty (currentBladderCapacity 25 -25 = 0 )
-chewToy (toyBin = ['kong', 'bone'])
+goPotty (currentBladderCapacity 25 - 25 = 0 )
+chewToy('plush toy') (toyBin = ['kong', 'bone'])
+
+
+Instance: Peaches
+
+Attributes:
+name ('Peaches')
+dateOfBirth (12/1/2011)
+color ('brown')
+bladderCapacity (150)
+currentBladderCapacity (10)
+thirsty (true)
+isInside (true)
+toyBin ['kong', 'bone', 'plush toy']
+
+
+Methods:
+callDog (prints 'Peaches' to the console)
+drinkWater (thirsty = false currentBladderCapacity 10 + 10 = 20)
+goOutside (isInside = false)
+goPotty (currentBladderCapacity 20 - 20 = 0 )
+chewToy('kong')(toyBin = [bone'])
